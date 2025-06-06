@@ -1,12 +1,146 @@
-# React + Vite
+  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Eid ul Adha Celebration
 
-Currently, two official plugins are available:
+  
+  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A beautiful, animated, and responsive web experience to celebrate **Eid ul Adha** with heartfelt wishes, blessings, and messages of unity and compassion. Built using **React**, **TailwindCSS**, and **Framer Motion**, this festive site brings together design, spirituality, and storytelling.
 
-## Expanding the ESLint configuration
+  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+  
+
+---
+
+  
+
+  
+
+## 🌟 Features
+
+  
+
+  
+
+- 🎉 Animated section transitions with **Framer Motion**
+
+  
+
+- 🌙 Eid greetings and **heartfelt duas** (prayers)
+
+  
+
+- 🎨 Aesthetic Islamic-themed UI with **emoji and Lucide icons**
+
+  
+
+- 💬 Multilingual-friendly structure for future expansion
+
+  
+
+- 🔄 Responsive design for **mobile, tablet, and desktop**
+
+  
+
+- 💚 Modular components: Blessings, Footer, Celebrations
+
+  
+
+  
+
+---
+
+  
+  
+  
+
+  
+
+## 🛠️ Tech Stack
+
+  
+
+  
+
+*  **React** – Component-based UI
+
+  
+
+*  **Tailwind CSS** – Utility-first styling
+
+  
+
+*  **Framer Motion** – Smooth animations
+
+  
+
+*  **Lucide Icons** – Elegant SVG icon system
+
+  
+
+*  **Vite** – Lightning-fast dev environment
+
+  
+
+---
+
+  
+
+  
+
+## Blessing
+
+  
+
+  
+
+```html
+
+  
+
+"May Allah accept your good deeds, forgive your transgressions,
+
+  
+
+and ease the suffering of all peoples around the globe."
+
+  
+
+```
+
+  
+
+  
+
+---
+
+  
+
+  
+
+## 📸 Preview
+
+  
+
+  
+
+![*Include a screenshot or demo GIF here*](https://eid-mubarak2025.netlify.app/banner.png)
+
+  
+
+  
+
+---
+
+  
+
+  
+
+## Eid Mubarak!
+
+  
+
+  
+
+> "May this Eid bring joy, health, happiness, and wealth to you and all your loved ones. Eid Mubarak!"
