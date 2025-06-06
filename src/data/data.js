@@ -64,33 +64,40 @@ export const celebrations = [
   {
     icon: 'Utensils',
     title: 'Festive Feast',
-    description: 'Traditional dishes and sweets',
+    description: 'Traditional dishes and sweets shared with family and guests.',
+    emoji: '🍽️',
   },
   {
     icon: 'Music',
     title: 'Takbir Chanting',
-    description: 'Echoes of “Allahu Akbar” fill the air',
+    description: 'Echoes of “Allahu Akbar” fill the air in joyous unity.',
+    emoji: '📣',
   },
   {
     icon: 'Crown',
     title: 'New Clothes',
-    description: 'Wearing the finest attire for celebration',
+    description: 'Wearing the finest attire symbolizes renewal and celebration.',
+    emoji: '👕',
   },
   {
-    icon: 'Camera',
-    title: 'Precious Memories',
-    description: 'Capturing joyful moments with loved ones',
+    icon: 'Gift',
+    title: 'Eidi for Children',
+    description: 'Children receive gifts and money in a spirit of generosity.',
+    emoji: '🎁',
   },
   {
     icon: 'Globe',
     title: 'Global Unity',
-    description: 'Muslims around the world celebrating together',
+    description: 'Muslims around the world celebrate Eid with shared joy.',
+    emoji: '🌍',
   },
   {
     icon: 'Calendar',
     title: 'Sacred Days',
-    description: 'Four days of joy, reflection, and blessings',
+    description: 'Four days filled with reflection, prayer, and festive gatherings.',
+    emoji: '🗓️',
   },
 ];
+
 
 export const islamicPatterns = [ '☪️','🌟', '🌙', '✨', '🌟'];

@@ -29,7 +29,7 @@ function Footer({ islamicPatterns }) {
 
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-8">
           <motion.div
-            className="text-center"
+            className="text-center hover:border-2 p-6 hover:bg-green-700/60 rounded-lg transition-colors duration-300"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.2 }}
@@ -39,7 +39,7 @@ function Footer({ islamicPatterns }) {
             <p className="text-sm text-emerald-200">Celebrating together as one Ummah</p>
           </motion.div>
           <motion.div
-            className="text-center"
+            className="text-center hover:border-2 p-6 hover:bg-green-700/60 rounded-lg transition-colors duration-300"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.4 }}
@@ -49,7 +49,7 @@ function Footer({ islamicPatterns }) {
             <p className="text-sm text-emerald-200">Following Ibrahim's example of faith</p>
           </motion.div>
           <motion.div
-            className="text-center"
+            className="text-center hover:border-2 p-6 hover:bg-green-700/60 rounded-lg transition-colors duration-300"
             initial={{ opacity: 0, y: 10 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.6 }}
